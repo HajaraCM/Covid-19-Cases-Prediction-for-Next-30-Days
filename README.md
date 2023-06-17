@@ -1,7 +1,9 @@
 # Covid-19-Cases-Prediction-for-Next-30-Days
 
 Time series forecasting is a technique for the prediction of events through a sequence of time. Time series forcasting decomposes the historical data into the basline,trend and seasonality.
+
 This is a machine learning project on Covid-19 cases prediction with Python for the next 30 days. These types of predictive models help in providing an accurate prediction of epidemics, which is essential for obtaining information on the likely spread and consequences of infectious diseases.Governments and other legislative bodies rely on these kinds of machine learning predictive models and ideas to suggest new policies and assess the effectiveness of applied policies.
+
 here I used the Facebook prophet model for the task of Covid-19 cases prediction with Python for the next 30 days. Facebook prophet model uses time series method for forecasting. 
 
 ## Technologies
